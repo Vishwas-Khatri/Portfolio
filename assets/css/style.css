@@ -2976,4 +2976,7 @@ E. Template Specific Elements
   #ts-hero .ts-background-image {
     background-position-x: 70%;
   }
+  .ts-animate-hero-items .align-items-end.align-items-md-center {
+    padding-bottom: 100px;
+  }
 }
